@@ -52,8 +52,4 @@ public class EnumDemo3 {
         if(ap1 == ap2)
             System.out.println(ap1 + " == " + ap2);
     }
-
-
-
-
 }
