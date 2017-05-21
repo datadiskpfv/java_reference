@@ -36,5 +36,31 @@ public class modifyString {
         System.out.println("int: " + String.valueOf(i));
         System.out.println("double: " + String.valueOf(d));
         System.out.println("float: " + String.valueOf(f));
+        System.out.println();
+
+        String s8 = "Hello";
+        String s9 = "HELLO";
+
+        System.out.println("toUpperCase: " + s8.toUpperCase());
+        System.out.println("toLowerCase: " + s9.toLowerCase());
+        System.out.println();
+
+        String s10 = "Have";
+        String s11 = "a";
+        String s12 = "nice";
+        String s13 = "day";
+
+        System.out.println(String.join(" ", s10, s11, s12, s13 ));
+        System.out.println();
+
+        String s14 = "Have a nice day";
+        System.out.println("nice is in s14: " + s14.contains("nice"));
+        System.out.println("night is in s14: " + s14.contains("night"));
+        System.out.println();
+
+        String s15 = "";
+        String s16 = "Hello";
+        System.out.println("isEmpty: " + s15.isEmpty());
+        System.out.println("isEmpty: " + s16.isEmpty());
     }
 }
