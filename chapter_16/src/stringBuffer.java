@@ -34,7 +34,5 @@ public class stringBuffer {
         sb.replace(0, 5, "Good-Bye");
         System.out.println("toString: " + sb + ":");
         System.out.println();
-
-
     }
 }
