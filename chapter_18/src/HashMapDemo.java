@@ -14,6 +14,7 @@ public class HashMapDemo {
         hm.put("Lorraine Valle", 2000.00);
         hm.put("Dominic Valle", 3000.00);
         hm.put("Jessica Valle", 4000.00);
+        hm.put("Paul Valle", 1000.00);
 
         Set<Map.Entry<String,Double>> set = hm.entrySet();
 
