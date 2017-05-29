@@ -40,9 +40,11 @@ public class ComparatorDemo {
             System.out.println(element + " ");
         System.out.println();
 
-        Comparator<String> mc = (cStr, dStr) -> cStr.compareTo(dStr);
+        //Comparator<String> mc = (cStr, dStr) -> cStr.compareTo(dStr);
+        //TreeSet<String> ts2 = new TreeSet<>(mc.reversed());
 
-        TreeSet<String> ts2 = new TreeSet<>(mc.reversed());
+        // can replace the above two with single line of code
+        TreeSet<String> ts2 = new TreeSet<>((cStr, dStr) -> cStr.compareTo(dStr));
 
         ts2.add("Z");
         ts2.add("W");
