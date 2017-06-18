@@ -17,7 +17,9 @@ public class StreamDemo4 {
 
         // this acts as the consumer
         Stream<Double> sqrtRootStrm = myList.stream().map(Math::sqrt);
-        System.out.println("sqrtRootStrm: " + sqrtRootStrm);
+        Iterator<Double> itr = sqrtRootStrm.iterator();
+        while(itr.hasNext())
+            System.out.println(itr.next());
 
         // this acts as the producer
         double productOfSqrtRoots = sqrtRootStrm.reduce(1.0, (a,b) -> a*b);
