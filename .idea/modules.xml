@@ -28,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter_9/chapter_9.iml" filepath="$PROJECT_DIR$/chapter_9/chapter_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_reference.iml" filepath="$PROJECT_DIR$/java_reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer_pattern/observer_pattern.iml" filepath="$PROJECT_DIR$/observer_pattern/observer_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statergy_pattern/statergy_pattern.iml" filepath="$PROJECT_DIR$/statergy_pattern/statergy_pattern.iml" />
     </modules>
   </component>
 </project>
