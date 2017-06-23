@@ -4,13 +4,14 @@
 public class ChicagoPizzaStore extends PizzaStore {
     protected Pizza createPizza(String item) {
 
-        if (item.equals("chicago")) {
-            return new ChicagoStyleCheesePizza();
-        }
+        //if (item.equals("chicago")) {
+        //    return new ChicagoStyleCheesePizza();
+       // }
 //        } else if (type.equals("clam")) {
 //            pizza = new ClamPizza();
 //        } else if (type.equals("veggie")) {
 //            pizza = new VeggiePizza();
-        else return null;
+        //else return null;
+        return null;
     }
 }
