@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/java_reference.iml" filepath="$PROJECT_DIR$/java_reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer_pattern/observer_pattern.iml" filepath="$PROJECT_DIR$/observer_pattern/observer_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton_pattern/singleton_pattern.iml" filepath="$PROJECT_DIR$/singleton_pattern/singleton_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/statergy_pattern/statergy_pattern.iml" filepath="$PROJECT_DIR$/statergy_pattern/statergy_pattern.iml" />
     </modules>
   </component>
