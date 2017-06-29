@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/chapter_7/chapter_7.iml" filepath="$PROJECT_DIR$/chapter_7/chapter_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_8/chapter_8.iml" filepath="$PROJECT_DIR$/chapter_8/chapter_8.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_9/chapter_9.iml" filepath="$PROJECT_DIR$/chapter_9/chapter_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command_pattern/command_pattern.iml" filepath="$PROJECT_DIR$/command_pattern/command_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator_pattern/decorator_pattern.iml" filepath="$PROJECT_DIR$/decorator_pattern/decorator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_pattern/factory_pattern.iml" filepath="$PROJECT_DIR$/factory_pattern/factory_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_reference.iml" filepath="$PROJECT_DIR$/java_reference.iml" />
