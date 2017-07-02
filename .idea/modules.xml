@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter_pattern/adapter_pattern.iml" filepath="$PROJECT_DIR$/adapter_pattern/adapter_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_1/chapter_1.iml" filepath="$PROJECT_DIR$/chapter_1/chapter_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_10/chapter_10.iml" filepath="$PROJECT_DIR$/chapter_10/chapter_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_11/chapter_11.iml" filepath="$PROJECT_DIR$/chapter_11/chapter_11.iml" />
@@ -29,11 +30,13 @@
       <module fileurl="file://$PROJECT_DIR$/command_pattern/command_pattern.iml" filepath="$PROJECT_DIR$/command_pattern/command_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator_pattern/decorator_pattern.iml" filepath="$PROJECT_DIR$/decorator_pattern/decorator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_pattern/factory_pattern.iml" filepath="$PROJECT_DIR$/factory_pattern/factory_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator_pattern/iterator_pattern.iml" filepath="$PROJECT_DIR$/iterator_pattern/iterator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_reference.iml" filepath="$PROJECT_DIR$/java_reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer_pattern/observer_pattern.iml" filepath="$PROJECT_DIR$/observer_pattern/observer_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton_pattern/singleton_pattern.iml" filepath="$PROJECT_DIR$/singleton_pattern/singleton_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/statergy_pattern/statergy_pattern.iml" filepath="$PROJECT_DIR$/statergy_pattern/statergy_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template_pattern/template_pattern.iml" filepath="$PROJECT_DIR$/template_pattern/template_pattern.iml" />
     </modules>
   </component>
 </project>
