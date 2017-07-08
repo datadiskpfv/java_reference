@@ -12,13 +12,16 @@ public class GumballMachine {
 
     State state;
     int count = 0;
+    String location;
 
-    public GumballMachine(int numberGumballs) {
+    public GumballMachine(String location, int numberGumballs) {
         soldOutState = new SoldOutState(this);
         noQuarterState = new NoQuarterState(this);
         hasQuarterState = new HasQuarterState(this);
         soldState = new SoldState(this);
         winnerState = new WinnerState(this);
+
+        this.location = location;
 
         this.count = numberGumballs;
         if (numberGumballs > 0) {
@@ -56,6 +59,10 @@ public class GumballMachine {
         this.count += count;
         System.out.println("The gumball machine was just refilled; it's new count is: " + this.count);
         state.refill();
+    }
+
+    public String getLocation() {
+        return location;
     }
 
     void setState(State state) {

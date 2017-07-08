@@ -29,12 +29,14 @@
       <module fileurl="file://$PROJECT_DIR$/chapter_9/chapter_9.iml" filepath="$PROJECT_DIR$/chapter_9/chapter_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/command_pattern/command_pattern.iml" filepath="$PROJECT_DIR$/command_pattern/command_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/composite_pattern/composite_pattern.iml" filepath="$PROJECT_DIR$/composite_pattern/composite_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compound_pattern/compound_pattern.iml" filepath="$PROJECT_DIR$/compound_pattern/compound_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator_pattern/decorator_pattern.iml" filepath="$PROJECT_DIR$/decorator_pattern/decorator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_pattern/factory_pattern.iml" filepath="$PROJECT_DIR$/factory_pattern/factory_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator_pattern/iterator_pattern.iml" filepath="$PROJECT_DIR$/iterator_pattern/iterator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_reference.iml" filepath="$PROJECT_DIR$/java_reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer_pattern/observer_pattern.iml" filepath="$PROJECT_DIR$/observer_pattern/observer_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" filepath="$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton_pattern/singleton_pattern.iml" filepath="$PROJECT_DIR$/singleton_pattern/singleton_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/state_pattern/state_pattern.iml" filepath="$PROJECT_DIR$/state_pattern/state_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/statergy_pattern/statergy_pattern.iml" filepath="$PROJECT_DIR$/statergy_pattern/statergy_pattern.iml" />
